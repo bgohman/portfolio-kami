@@ -1,33 +1,33 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
 url: "http://www.domain.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Bradley Gohman # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Rails Developer</h1>
+     <p>I am passionate about solving problems, creating new things and learning.</p>
   header_text_feature_image: 
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a>.  Thanks for stopping by!
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: bradley.s.gohman@gmail.com
   behance:
-  bitbucket:
+  bitbucket: bgohman
   dribbble: 
   facebook: 
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: bgohman
   google_plus:
   instagram: 
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/bradleygohman
   pinterest:
   reddit:
   soundcloud:
